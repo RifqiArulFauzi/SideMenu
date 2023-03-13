@@ -1,0 +1,7 @@
+{
+  "name": "dua",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
